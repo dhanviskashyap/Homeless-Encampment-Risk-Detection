@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import math
 
-GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"  
+GOOGLE_API_KEY = "GOOGLE_API_KEY"  
 ENCAMPMENT_DATA_PATH = "encampments.csv"
 RADIUS_KM = 1.0
 THRESHOLDS = (0, 2, 5)  
